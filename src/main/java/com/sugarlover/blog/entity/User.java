@@ -1,5 +1,11 @@
 package com.sugarlover.blog.entity;
 
+/**
+ * @Description:
+ * @author: SGL
+ * @date: 14:24 2019/1/3
+ *
+ */
 public class User {
     private String name;
 

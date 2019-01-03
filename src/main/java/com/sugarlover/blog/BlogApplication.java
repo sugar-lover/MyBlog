@@ -5,7 +5,10 @@ import org.springframework.boot.autoconfigure.SpringBootApplication;
 import org.springframework.boot.autoconfigure.jdbc.DataSourceAutoConfiguration;
 
 /**
- * @author SGL
+ * @Description:
+ * @author: SGL
+ * @date: 14:25 2019/1/3
+ *
  */
 @SpringBootApplication(exclude = {DataSourceAutoConfiguration.class})
 public class BlogApplication {
